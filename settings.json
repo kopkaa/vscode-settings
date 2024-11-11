@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "workbench.colorTheme": "SynthWave '84",
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Fira code, Mononoki, Consolas, monospace",
+    "[javascript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "eslint.format.enable": true,
+
+}
